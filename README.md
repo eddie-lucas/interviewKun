@@ -30,7 +30,7 @@ Interview-Kun【面试鸡、面试坤(ji)、ikun】是一个程序员求职面�
 
 提交PR之前看看网站上有没有自己的题目，如果有更好的答案，可以在题目下方形成多个不同的版本（需要做好区分）
 
-面试题目来源可以参考面试题目永久免费的面试鸭：https://www.mianshiya.com
+面试题目来源可以参考面试题目永久免费的面试鸭：https://www.mianshiya.com，**如果你有更好的题目，也可以贡献出来**
 建议文件夹划分以及题目，难度划分跟面试鸭保持同步，如下图
 
 ![](https://gitee.com/eddie-lucas/images/raw/master/img/image-20241107205521409.png)
@@ -39,4 +39,4 @@ Interview-Kun【面试鸡、面试坤(ji)、ikun】是一个程序员求职面�
 
 ## Star 趋势
 
-[![](https://api.star-history.com/svg?repos=eddie-lucas/Interview-Kun&type=Date)](https://star-history.com/#eddie-lucas/Interview-Kun&Date)
+[![](https://api.star-history.com/svg?repos=eddie-lucas/interviewKun&type=Date)](https://star-history.com/#eddie-lucas/interviewKun&Date)
